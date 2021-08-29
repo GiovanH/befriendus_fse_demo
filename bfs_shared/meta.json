@@ -1,0 +1,19 @@
+{
+    "package_id": "bfs_shared",
+    "volumes": [],
+    "public": true,
+    "music": [
+        {
+            "title": "Nocturne for a Socially Awkward Timeline Jumper",
+            "artist": "Grace",
+            "album": "Befriendus",
+            "file": "music/Nocturne_for_a_Socially_Awkward_Timeline_Jumper.ogg"
+        },
+        {
+            "title": "Interlude works better as a name in my opinion",
+            "artist": "Cerulean",
+            "album": "Befriendus",
+            "file": "{{assets}}/music/Interlude.ogg"
+        }
+    ]
+}

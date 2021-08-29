@@ -1,0 +1,55 @@
+{
+    "package_id": "vol01_meenah_demo",
+    "volumes": [
+        {
+            "volume_id": "vol01_meenah",
+            "title": "Volume 1",
+            "subtitle": "{hemocolor=fuchsia}\"The Winner Takes It All\"{/hemocolor}",
+            "author": "",
+            "warnings": "Stabbing, drowning, policing."
+        }
+    ],
+    "achievements": [
+        {
+            "id_suffix": "meenah_friended",
+            "img_locked": "ach_mee_no_idle.png",
+            "img_unlocked": "ach_mee_yes_idle.png",
+            "name": "Welcome to Cuddleplum",
+            "desc": "You have a feeling you're not on Alternia anymore.",
+            "hint": "Chum it up with Meenah."
+        },
+        {
+            "id_suffix": "meenah_bad_end_1",
+            "img_locked": "ach_mee_no_idle.png",
+            "img_unlocked": "ach_mee_bad1.png",
+            "name": "right back to the tidal screen",
+            "desc": "Cut the carp, blubbermouth.",
+            "hint": ""
+        },
+        {
+            "id_suffix": "meenah_bad_end_2",
+            "img_locked": "ach_mee_no_idle.png",
+            "img_unlocked": "ach_mee_bad2.png",
+            "name": "trolling in the deep",
+            "desc": "Slammer means jail when you're extra angry at crimes.",
+            "hint": ""
+        },
+        {
+            "id_suffix": "journal_obtained",
+            "img_locked": "ach_generic_no_idle.png",
+            "img_unlocked": "ach_journal_yes_idle.png",
+            "name": "Think of the Worldbuilding",
+            "desc": "If only comfortable reading positions were as easy to find\nas this journal you obtained.",
+            "hint": "Find a royal heirloom."
+        }
+    ],
+    "music": [
+        {
+            "title": "Chumming the Bassline",
+            "artist": "Grace",
+            "album": "Meenah",
+            "file": "{{assets}}/music/Chumming the Bassline.ogg"
+        }
+    ]
+}
+

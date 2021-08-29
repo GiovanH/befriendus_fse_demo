@@ -1,0 +1,140 @@
+ALIAS:
+  Alienoid: Alienoid ({a=http://twitter.com/AlienoidNovace}{image=bfs_icon_twitter}AlienoidNovace{/a})
+  Cerulean: Cerulean ({a=https://soundcloud.com/ctza}{image=bfs_icon_soundcloud}Cerulean{/a})
+  Cro: Cro ({a=https://twitter.com/yoitscro}{image=bfs_icon_twitter}yoitscro{/a})
+  Dust: Dust ({a=https://twitter.com/dust_Medium}{image=bfs_icon_twitter}dust_Medium{/a})
+  Gio: Gio ({a=https://twitter.com/giovan_h}{image=bfs_icon_twitter}Giovan_H{/a})
+  Grace: Grace ({a=https://soundcloud.com/user-743933328}{image=bfs_icon_soundcloud}power464646{/a})
+  Kal: Kal-la-kal-la ({a=https://twitter.com/kal_la_kal_la/}{image=bfs_icon_twitter}kal-la-kal-la{/a})
+  Leo: Leo ({a=https://twitter.com/pi3shark}{image=bfs_icon_twitter}pi3shark{/a})
+  Napstachill: napstachill ({a=https://twitter.com/napstachill}{image=bfs_icon_twitter}napstachill{/a})
+  Olschu: Olschu ({a=https://twitter.com/olschustuck}{image=bfs_icon_twitter}olschustuck{/a})
+  Pam: Pam ({a=https://twitter.com/p_pamda}{image=bfs_icon_twitter}p_pamda{/a})
+  Quinn: Quinn ({a=https://twitter.com/sunnymatsuart}{image=bfs_icon_twitter}sunnymatsuart{/a})
+  Rafi: Rafi ({a=https://faewaren.tumblr.com}{image=bfs_icon_tumblr}faewaren{/a})
+  Rif: Rif ({a=https://twitter.com/antleredCouncil}{image=bfs_icon_twitter}antleredCouncil{/a})
+  Robin: Robin ({a=https://rhythmic-idealist.tumblr.com/}{image=bfs_icon_tumblr}rhythmic-idealist{/a})
+  Sollay: Sollay ({a=https://sollay-b.tumblr.com/}{image=bfs_icon_tumblr}sollay-b{/a})
+  Zelpixel: Zelpixel ({a=https://twitter.com/zelpixel}{image=bfs_icon_twitter}zelpixel{/a})
+  
+  Marie: Marie ({a=https://twitter.com/ASXACID}{image=bfs_icon_twitter}ASXACID{/a})
+
+LIST:
+  (S0)Befriendus:
+  - (S0)(There may be spoilers here, peruse at your own risk!)
+  - (S1)(If the hyperlinks below don't work, try CTRL + click.)
+  (S1)Director:
+  - <Alienoid>
+  (S2)Narrative Director:
+  - <Robin>
+  (S3)Technical Advisor:
+  - <Gio>
+  (S4)Programming and Animation:
+  - (S1)<Alienoid>
+  - (S2)<Gio>
+
+DICT:
+  (S1)Writers:
+    (S1)Meenah: 
+      - <Alienoid>
+    (S2)Mituna: 
+      - <Rafi>
+    (S3)Intermissions 1, 2:
+      - <Alienoid>   
+    (S4)Aranea: 
+      - <Robin> 
+    (S5)Porrim: 
+      - <Cro>
+    (S99)Volume ♥:
+      - <Gio>
+  (S2)Character Artists:
+    (S1)Meenah:
+      - <Sollay>
+    (S2)Mituna:
+      - <Olschu>
+    (S3)The Reader:
+      - <Napstachill>
+    (S4)Aranea: 
+      - <Leo> 
+    (S5)Porrim: 
+      - <Pam>
+    (S99)Maplehoof:
+      - <Alienoid>
+  (S3)Background Artists:
+    (S1)Meenah's Route:
+      - <Dust>
+      - <Zelpixel>
+      - <Alienoid>
+    (S2)Mituna's Route:
+      - <Zelpixel>
+      - <Leo>
+      - <Quinn>
+      - <Napstachill>
+    # Intermission 1 intentionally blank
+    (S4)Aranea's Route: 
+      - <Napstachill> 
+    (S5)Porrim's Route: 
+      - <Dust>
+      - <Quinn>
+      - <Napstachill>
+  (S4)End Card Artists:
+    (S1)Meenah's Route:
+      - <Alienoid>
+    (S2)Mituna's Route:
+      - <Quinn>
+    # Intermission 1 intentionally blank
+    (S4)Aranea's route: 
+      - <Quinn> 
+    (S5)Porrim's route: 
+      - <Napstachill>
+    (S6)Intermission 2: 
+      - <Alienoid>
+    (S99)Volume ♥:
+      - <Napstachill>
+  (S5)Music:
+    <Grace>:
+    - (S1)Main Menu Theme, {i}Nocturne for a Socially Awkward Timeline Jumper{/i}
+    - (S2)Meenah's Theme, {i}Chumming the Bassline{/i}
+    - (S3)Mituna's Theme, {i}lo fi chill anime bees to study and relax to{/i}
+    - (S98)Journal Theme, {i}Having the Tome of your Life{/i}
+    <Cerulean>:
+    - (S1)Interlude, {i}Interlude works better as a name in my opinion{/i}
+    - (S2)Aranea's Theme, {i}Spider's Fright{/i}
+    - (S3)Porrim's Theme, {i}Alive, Loving It{/i}
+    - (S4)Porrim's Theme, {i}Dead, Hating It{/i}
+    - (S5)Intermission 2 Theme, {i}Emotional Decay{/i}
+    - (S99)Maplehoof's Theme, {nb}{i}Horsin' Around{/i}{/nb}
+    <Kal>:
+    - (S1)Intermission 1 Theme, {i}Matter of Fact, It's All Dark{/i}
+  (S6)Additional Credits:
+    (S1)<Alienoid>:
+      - UI art
+      - Main menu background
+      - Mituna's drawing
+      - Profile pics for Meenah/Porrim
+    (S2)<Gio>:
+      - Volume ♥
+      - Intermission ideation
+      - Misc. menu graphics, icons
+      - Misc. script editing
+    (S3)<Napstachill>:
+      - Imperial Drone sprite
+      - Journal background
+      - Intermission curtains
+    (S4)<Cro>:
+      - Empress Feferi Peixes portrait
+    (S98)<Marie>:
+      - Sensitivity reading
+
+POSTSCRIPT:
+  - (S0)If you want to support our incredibly talented team, please consider supporting us on {a=https://sponsus.org/u/befriendus}Sponsus{/a}.
+  - (S1)Thank you Gio for developing the {a=https://github.com/GiovanH/fansim-engine}Fansim Engine,{/a} and 
+    going above and beyond to make this and other projects not just possible, but better.
+  - (S2)Thank you to the {a=https://vasterror.itch.io/snowbound-blood}Snowbound Blood{/a} team for their 
+    support and for inspiring many of us to work on our own separate fan projects.
+  - (S3)A very heartfelt thank you to Andrew Hussie, What Pumpkin Games, and the
+    teams behind {a=https://store.steampowered.com/app/623940/HIVESWAP_Act_1/}Hiveswap,{/a}
+    {a=https://store.steampowered.com/app/1144030/Pesterquest/}Pesterquest,{/a} and
+    {a=https://homestuck2.com/}Homestuck^2.{/a} You continue to inspire us to pour
+    passion, blood, sweat and tears into our work, and this labour of love would be
+    nothing without you.
